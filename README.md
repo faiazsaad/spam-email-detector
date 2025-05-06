@@ -1,6 +1,6 @@
 #  Spam Email Detector
 
-A lightweight and responsive web app for detecting spam emails using a machine learning model powered by **Random Forest** and **Feature Selection**. Built with **React**, **Vite**, and **Tailwind CSS**.
+A lightweight and responsive website for a project of detecting spam emails using a machine learning model powered by **Random Forest** and **Feature Selection**. Built with **React**, **Vite**, and **Tailwind CSS**.
 
 🔗 [Live Wesbsite](https://faiazsaad.github.io/spam-email-detector/)
 
@@ -8,11 +8,10 @@ A lightweight and responsive web app for detecting spam emails using a machine l
 
 ##  Features
 
-- 📬 Paste any email content and detect if it's spam
+- 📬 ML project where you can paste any email content and detect if it's spam
 - ⚡ Fast, optimized frontend with Vite
 - 🎨 Clean and responsive UI with Tailwind CSS
 - 🔁 Real-time feedback with zero page reloads
-- 🧠 Powered by a trained spam detection model (Random Forest)
 
 ---
 
